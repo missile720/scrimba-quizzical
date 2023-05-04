@@ -1,0 +1,27 @@
+.question{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 19px;
+    color: #293264;
+    padding-top: 20px;
+}
+
+.answerChoice{
+    width: max-content;
+    height: 25;
+    border: 0.794239px solid #4D5B9E;
+    border-radius: 7.94239px;
+    cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    color: #293264;
+    margin: 15px;
+    margin-left: 0;
+    padding: 6px;
+}

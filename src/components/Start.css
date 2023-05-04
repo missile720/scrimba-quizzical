@@ -1,0 +1,46 @@
+.startContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.startTitle {
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 37px;
+    text-align: center;
+    color: #293264;
+    margin-bottom: 7px;
+}
+
+.startInfo {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #293264;
+    margin-bottom: 29px;
+}
+
+.startButton {
+    width: 193px;
+    height: 52px;
+    background: #4D5B9E;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #F5F7FB;
+    align-self: center;
+}
+
+.startButton:active {
+    box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+  }

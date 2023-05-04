@@ -1,0 +1,10 @@
+.startScreen, .quizScreen{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    min-height: 100vh;
+    background: #F5F7FB;
+    background-image: url("/images/blob-1.png"), url("/images/blob.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: top right, bottom left;
+}
