@@ -18,7 +18,6 @@ function Question(props) {
   };
 
   const stylesUnselected = {
-    ...styles,
     backgroundColor: "transparent",
     opacity: isQuizDone ? "0.5" : "1"
   };
