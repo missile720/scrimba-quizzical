@@ -1,6 +1,6 @@
 # [scrimba-quizzical](https://quizzical-scrimba-site.netlify.app/)
 
-![quizzical_AdobeExpress](https://github.com/missile720/scrimba-quizzical/assets/58495374/36279dd5-1308-4f3e-867b-f42ed8787a62)
+![quizzical_AdobeExpress (1)](https://github.com/missile720/scrimba-quizzical/assets/58495374/2145d405-3fdc-401a-b2b2-05cf3bc03af2)
 
 ## Description
 Quiz app that fetchs quiz questions from an API using React
